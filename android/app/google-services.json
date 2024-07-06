@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "511973555378",
+    "project_id": "cookbookd-395310",
+    "storage_bucket": "cookbookd-395310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511973555378:android:5b9294086f6c381c009dab",
+        "android_client_info": {
+          "package_name": "com.cookbookd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511973555378-61oa5oqcfhndlmsbqi3dumi6d7b0h6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfRqnMHzUACl3dXesQd-NKK78xcJvpns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511973555378-61oa5oqcfhndlmsbqi3dumi6d7b0h6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511973555378:android:0e35386ab51c4a71009dab",
+        "android_client_info": {
+          "package_name": "com.cookbookd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511973555378-61oa5oqcfhndlmsbqi3dumi6d7b0h6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfRqnMHzUACl3dXesQd-NKK78xcJvpns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511973555378-61oa5oqcfhndlmsbqi3dumi6d7b0h6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
